@@ -1,0 +1,17 @@
+html {
+  background-color: rgb(39, 34, 34);
+  color: aliceblue;
+  font-size: large;
+}
+
+body {
+  text-align: center;
+}
+
+a:link {
+  color: red;
+}
+
+a:hover {
+  color: white;
+}
